@@ -1,0 +1,15 @@
+node_modules
+.cache
+journal
+.env
+
+node_modules
+journal
+
+
+*.zip
+*.tar
+*.rar
+.env
+*.log
+

@@ -1,0 +1,1 @@
+mongod  --dbpath --dbpath E:\working\kainetapi\kainet-vision-api-node\data\db
